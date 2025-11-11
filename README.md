@@ -125,4 +125,3 @@ For questions or suggestions, feel free to reach out!
 
 ---
 
-**Made with ❤️ for the Fabricland College Quest Challenge**
