@@ -99,9 +99,7 @@ A comprehensive Power BI report designed to help students explore and find their
 
 ## 🏆 Challenge
 
-Created for: **College Quest Power BI Data Visualization Challenge**
-- Challenge URL: [Link to challenge]
-- Submission Date: November 2024
+Created for: **College Quest Power BI Data Visualization Challenge From Microsoft Fabric**
 
 ## 👨‍💼 About
 
