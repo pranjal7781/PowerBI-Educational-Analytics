@@ -110,7 +110,7 @@ This project demonstrates:
 - Interactive dashboard creation
 - Data visualization for decision-making
 - Accessibility and usability design
-
+ 
 ## 📝 License
 
 This project is open source and available under the MIT License.
