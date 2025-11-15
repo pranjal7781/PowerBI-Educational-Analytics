@@ -38,7 +38,7 @@ A comprehensive Power BI report designed to help students explore and find their
 
 ✅ **Professional Dark Theme**
 - High contrast for accessibility
-- Consistent color palette (Magical purple & gold)
+- Consistent color palette.
 - Modern, engaging design
 
 ✅ **Diverse Visualizations**
