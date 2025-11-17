@@ -11,7 +11,7 @@ A comprehensive Power BI report designed to help students explore and find their
 **Page 1: Welcome to Fabricland**
 - Overview of all colleges across the realms.
 - Key metrics: Total institutions, programs, cost, and earnings.
-- Cost vs. Career Outcomes analysis
+- Cost vs. Career Outcomes analysis.
 - College rankings by academic excellence
 - Return on Investment (ROI) analysis
 - Interactive filters by kingdom, campus type, and scholarship availability
