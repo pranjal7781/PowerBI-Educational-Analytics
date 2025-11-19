@@ -18,7 +18,7 @@ A comprehensive Power BI report designed to help students explore and find their
 
 **Page 2: Explore Programs & Majors**
 - Program popularity across four major categories.
-- Complete program directory with enrollment data
+- Complete program directory with enrollment data.
 - 20+ years of enrollment growth trends (2000-2024)
 - Student support ratings
 - Career earnings comparison by field
