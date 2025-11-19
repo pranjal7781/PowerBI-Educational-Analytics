@@ -14,7 +14,7 @@ A comprehensive Power BI report designed to help students explore and find their
 - Cost vs. Career Outcomes analysis.
 - College rankings by academic excellence.
 - Return on Investment (ROI) analysis.
-- Interactive filters by kingdom, campus type, and scholarship availability
+- Interactive filters by kingdom, campus type, and scholarship availability.
 
 **Page 2: Explore Programs & Majors**
 - Program popularity across four major categories
