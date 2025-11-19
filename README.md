@@ -17,7 +17,7 @@ A comprehensive Power BI report designed to help students explore and find their
 - Interactive filters by kingdom, campus type, and scholarship availability.
 
 **Page 2: Explore Programs & Majors**
-- Program popularity across four major categories
+- Program popularity across four major categories.
 - Complete program directory with enrollment data
 - 20+ years of enrollment growth trends (2000-2024)
 - Student support ratings
