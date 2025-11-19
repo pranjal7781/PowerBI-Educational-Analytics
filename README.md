@@ -13,7 +13,7 @@ A comprehensive Power BI report designed to help students explore and find their
 - Key metrics: Total institutions, programs, cost, and earnings.
 - Cost vs. Career Outcomes analysis.
 - College rankings by academic excellence.
-- Return on Investment (ROI) analysis
+- Return on Investment (ROI) analysis.
 - Interactive filters by kingdom, campus type, and scholarship availability
 
 **Page 2: Explore Programs & Majors**
