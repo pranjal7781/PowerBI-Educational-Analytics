@@ -26,9 +26,9 @@ A comprehensive Power BI report designed to help students explore and find their
 
 **Page 3: College Finder & Comparison**
 - Comprehensive college scorecard with 10 metrics.
-- Graduate earnings comparison
-- Academic excellence distribution by kingdom
-- Easy identification of top performers
+- Graduate earnings comparison.
+- Academic excellence distribution by kingdom.
+- Easy identification of top performers.
 
 ## 🎯 Key Features
 
