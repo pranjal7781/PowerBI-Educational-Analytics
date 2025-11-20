@@ -33,7 +33,7 @@ A comprehensive Power BI report designed to help students explore and find their
 ## 🎯 Key Features
 
 ✅ **Interactive Slicers & Filters**
-- Kingdom, Campus Type, Scholarship Availability
+- Kingdom, Campus Type, Scholarship Availability.
 - Academic Difficulty, Major Category, Program Level
 
 ✅ **Professional Dark Theme**
