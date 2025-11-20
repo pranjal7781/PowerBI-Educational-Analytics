@@ -34,7 +34,7 @@ A comprehensive Power BI report designed to help students explore and find their
 
 ✅ **Interactive Slicers & Filters**
 - Kingdom, Campus Type, Scholarship Availability.
-- Academic Difficulty, Major Category, Program Level
+- Academic Difficulty, Major Category, Program Level.
 
 ✅ **Professional Dark Theme**
 - High contrast for accessibility
