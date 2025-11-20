@@ -22,10 +22,10 @@ A comprehensive Power BI report designed to help students explore and find their
 - 20+ years of enrollment growth trends (2000-2024)
 - Student support ratings.
 - Career earnings comparison by field.
-- Major category and level filters
+- Major category and level filters.
 
 **Page 3: College Finder & Comparison**
-- Comprehensive college scorecard with 10 metrics
+- Comprehensive college scorecard with 10 metrics.
 - Graduate earnings comparison
 - Academic excellence distribution by kingdom
 - Easy identification of top performers
