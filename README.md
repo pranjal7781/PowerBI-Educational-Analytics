@@ -37,7 +37,7 @@ A comprehensive Power BI report designed to help students explore and find their
 - Academic Difficulty, Major Category, Program Level.
 
 ✅ **Professional Dark Theme**
-- High contrast for accessibility
+- High contrast for accessibility.
 - Consistent color palette.
 - Modern, engaging design
 
