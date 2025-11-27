@@ -39,7 +39,7 @@ A comprehensive Power BI report designed to help students explore and find their
 ✅ **Professional Dark Theme**
 - High contrast for accessibility.
 - Consistent color palette.
-- Modern, engaging design
+- Modern, engaging design.
 
 ✅ **Diverse Visualizations**
 - Scatter plots, bar charts, line charts
