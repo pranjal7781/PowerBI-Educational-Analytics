@@ -47,7 +47,7 @@ A comprehensive Power BI report designed to help students explore and find their
 - Clear data labels and storytelling.
 
 ✅ **Data-Driven Insights**
-- 10 colleges across 8 kingdoms
+- 10 colleges across 8 kingdoms.
 - 34+ programs and majors
 - 20+ years of historical data
 - Career outcomes and placement rates
