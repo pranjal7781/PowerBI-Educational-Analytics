@@ -44,7 +44,7 @@ A comprehensive Power BI report designed to help students explore and find their
 ✅ **Diverse Visualizations**
 - Scatter plots, bar charts, line charts.
 - Treemaps, gauges, tables, pie charts.
-- Clear data labels and storytelling
+- Clear data labels and storytelling.
 
 ✅ **Data-Driven Insights**
 - 10 colleges across 8 kingdoms
