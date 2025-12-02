@@ -57,7 +57,7 @@ A comprehensive Power BI report designed to help students explore and find their
 1. Download the `.pbix` file.
 2. Open it with **Power BI Desktop**.
 3. Interact with filters on each page.
-4. Explore college comparisons
+4. Explore college comparisons.
 5. Make informed college choices!
 
 ## 📈 Metrics Analyzed
