@@ -62,7 +62,7 @@ A comprehensive Power BI report designed to help students explore and find their
 
 ## 📈 Metrics Analyzed
 
-- Tuition fees vs. starting salary (ROI analysis)
+- Tuition fees vs. starting salary (ROI analysis).
 - Student happiness and support ratings
 - Placement rates and career outcomes
 - Program enrollment trends
