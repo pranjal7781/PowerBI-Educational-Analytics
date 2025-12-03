@@ -66,7 +66,7 @@ A comprehensive Power BI report designed to help students explore and find their
 - Student happiness and support ratings.
 - Placement rates and career outcomes.
 - Program enrollment trends.
-- Diversity index and scholarship availability
+- Diversity index and scholarship availability.
 - Academic rankings and excellence distribution
 
 ## 📥 Installation
