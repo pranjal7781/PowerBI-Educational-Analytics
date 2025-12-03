@@ -72,7 +72,7 @@ A comprehensive Power BI report designed to help students explore and find their
 ## 📥 Installation
 
 ### Requirements
-- Power BI Desktop (Free download from microsoft.com)
+- Power BI Desktop (Free download from microsoft.com).
 - Windows, PC or Mac
 
 ### Steps
