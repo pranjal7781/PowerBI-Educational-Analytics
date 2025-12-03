@@ -73,7 +73,7 @@ A comprehensive Power BI report designed to help students explore and find their
 
 ### Requirements
 - Power BI Desktop (Free download from microsoft.com).
-- Windows, PC or Mac
+- Windows, PC or Mac.
 
 ### Steps
 1. Clone or download this repository ( `https://github.com/pranjal7781/PowerBI-Educational-Analytics.git` ).
