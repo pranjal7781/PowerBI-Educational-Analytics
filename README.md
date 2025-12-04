@@ -77,7 +77,7 @@ A comprehensive Power BI report designed to help students explore and find their
 
 ### Steps
 1. Clone or download this repository ( `https://github.com/pranjal7781/PowerBI-Educational-Analytics.git` ).
-2. Download the `.pbix` file
+2. Download the `.pbix` file.
 3. Open with Power BI Desktop
 4. Explore the dashboard!
 
