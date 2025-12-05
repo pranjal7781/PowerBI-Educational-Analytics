@@ -86,7 +86,7 @@ A comprehensive Power BI report designed to help students explore and find their
 - Dark theme optimized for readability.
 - Color-coded by kingdom for easy identification.
 - Interactive navigation between pages.
-- Responsive filters that work together
+- Responsive filters that work together.
 - Professional layout with clear hierarchy
 
 ## 📊 Dataset
