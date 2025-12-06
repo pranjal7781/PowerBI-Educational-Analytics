@@ -87,7 +87,7 @@ A comprehensive Power BI report designed to help students explore and find their
 - Color-coded by kingdom for easy identification.
 - Interactive navigation between pages.
 - Responsive filters that work together.
-- Professional layout with clear hierarchy
+- Professional layout with clear hierarchy.
 
 ## 📊 Dataset
 
