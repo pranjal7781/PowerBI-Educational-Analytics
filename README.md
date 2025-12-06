@@ -91,7 +91,7 @@ A comprehensive Power BI report designed to help students explore and find their
 
 ## 📊 Dataset
 
-- **Data Source**: Fabricland High Council of Education (Fictional)
+- **Data Source**: Fabricland High Council of Education (Fictional).
 - **Colleges**: 10 institutions across 8 kingdoms
 - **Programs**: 34+ academic programs
 - **Time Period**: 2000-2024 (20+ years)
