@@ -95,7 +95,7 @@ A comprehensive Power BI report designed to help students explore and find their
 - **Colleges**: 10 institutions across 8 kingdoms
 - **Programs**: 34+ academic programs
 - **Time Period**: 2000-2024 (20+ years)
-- **Records**: 850+ program records
+- **Records**: 850+ program records.
 
 ## 🏆 Challenge
 
