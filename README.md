@@ -117,6 +117,6 @@ This project is open source and available under the MIT License.
 
 Feel free to fork, modify, and improve this dashboard!
 
-## 📧 Contact
+## 📧 Contact 
 
 For questions or suggestions, feel free to reach out!
