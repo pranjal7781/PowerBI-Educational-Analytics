@@ -104,7 +104,7 @@ Created for: **College Quest Power BI Data Visualization Challenge From Microsof
 ## 👨‍💼 About
 
 This project demonstrates:
-- Power BI report design best practices
+- Power BI report design best practices.
 - Interactive dashboard creation
 - Data visualization for decision-making
 - Accessibility and usability design
