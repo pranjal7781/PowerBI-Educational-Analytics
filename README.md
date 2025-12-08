@@ -107,7 +107,7 @@ This project demonstrates:
 - Power BI report design best practices.
 - Interactive dashboard creation.
 - Data visualization for decision-making.
-- Accessibility and usability design
+- Accessibility and usability design.
  
 ## 📝 License
 
