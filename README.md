@@ -1,5 +1,4 @@
 # 🧙✨ Fabricland College Quest ✨🧙
-
 Interactive Power BI Dashboard for College Discovery.
  
 ## 📊 Overview
